@@ -13,4 +13,9 @@ else {
   console.log("The name is correct");
 }
 
-
+if(height !== '74') {
+  console.log("Expected the name to be Susan");
+}
+else {
+  console.log("The name is correct");
+}
