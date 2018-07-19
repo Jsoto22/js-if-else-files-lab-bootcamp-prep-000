@@ -1,5 +1,5 @@
-var name = "Joe"
-var height = "74"
+var name = "Susan"
+var height = "70"
 
 
 // Don't worry about this
@@ -14,8 +14,8 @@ else {
 }
 
 if(height !== '74') {
-  console.log("Expected the name to be Susan");
+  console.log("Expected the height to be 70");
 }
 else {
-  console.log("The name is correct");
+  console.log("The height is correct");
 }
